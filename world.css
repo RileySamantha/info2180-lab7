@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+    margin-top:-5px;
+    width: 100%;
+    color: black;
+    background-color: blue;
+}
+
+
+ul{
+    text-align: center;
+}
+
+#controls{
+    width: 30%;
+}
+
+#country{
+    margin-bottom: 15px;
+}
+
+
